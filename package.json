@@ -37,17 +37,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tokencenter/bep20-generator.git"
+    "url": "https://github.com/kfa496/bep20-generator-1.git"
   },
-  "homepage": "https://tokencenter.github.io/bep20-generator",
+  "homepage": "https://kazifier.vercel.app",
   "bugs": {
-    "url": "https://github.com/tokencenter/bep20-generator/issues"
+    "url": "https://kazifier.vercel.app"
   },
-  "author": "Vittorio Minacori",
+  "author": "Kazifier",
   "contributors": [
     {
-      "name": "Vittorio Minacori",
-      "url": "https://github.com/vittominacori"
+      "name": "Kazifier",
+      "url": "https://github.com/kfa496"
     }
   ],
   "license": "MIT",
