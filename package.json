@@ -50,6 +50,11 @@
       "url": "https://github.com/kfa496"
     }
   ],
+  "eslintConfig": {
+    "rules": {
+      "no-shadow": "off",
+    }
+  }
   "license": "MIT",
   "devDependencies": {
     "@nomiclabs/hardhat-ganache": "^2.0.0",
